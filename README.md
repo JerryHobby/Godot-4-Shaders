@@ -1,4 +1,2 @@
-# Godot 4 Shaders
-
-
-kkk
+# Godot 4 Shaders by Kaan
+https://www.gamedev.tv/dashboard/courses/113
